@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZeroTechTrait", "LingGame\ZeroTechTrait.csproj", "{E5DD3193-CF84-424C-8555-57EBB87D3545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5DD3193-CF84-424C-8555-57EBB87D3545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DD3193-CF84-424C-8555-57EBB87D3545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DD3193-CF84-424C-8555-57EBB87D3545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DD3193-CF84-424C-8555-57EBB87D3545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85799bec-eaef-4f31-a1d8-e1a1d7774e0f}
+	EndGlobalSection
+EndGlobal
