@@ -1,10 +1,9 @@
 using RimWorld;
 
-namespace LingGame
+namespace LingGame;
+
+[DefOf]
+public static class ZeroTechTraitDefOf
 {
-    [DefOf]
-    public static class ZeroTechTraitDefOf
-    {
-        public static TraitDef Ling_NoGod_Nonsense;
-    }
+    public static TraitDef Ling_NoGod_Nonsense;
 }
