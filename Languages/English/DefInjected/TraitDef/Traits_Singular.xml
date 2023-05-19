@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- {PAWN_nameDef}
+	{PAWN_possessive}
+	{PAWN_pronoun} -->
+  <Ling_NoGod_Immunodeficiency.degreeDatas.0.label>Immunodeficiency</Ling_NoGod_Immunodeficiency.degreeDatas.0.label>
+  <Ling_NoGod_Immunodeficiency.degreeDatas.0.description>{PAWN_nameDef} the immune system is severely defective,{PAWN_pronoun} immunity is almost non-existent,Almost the slightest illness can kill them.</Ling_NoGod_Immunodeficiency.degreeDatas.0.description>
+  <Ling_NoGod_2.degreeDatas.0.label>Mental mania</Ling_NoGod_2.degreeDatas.0.label>
+  <Ling_NoGod_2.degreeDatas.0.description>{PAWN_nameDef}It is difficult to control their spirit, and they often vent their unprovoked anger to the people around them regardless of the occasion.</Ling_NoGod_2.degreeDatas.0.description>
+  <Ling_NoGod_NoValue.degreeDatas.0.label>Not worth a penny</Ling_NoGod_NoValue.degreeDatas.0.label>
+  <Ling_NoGod_NoValue.degreeDatas.0.description>For unknown reasons,{PAWN_nameDef}No matter what amazing feats are made,{PAWN_pronoun}'s worth will not change one iota, even in the slave market, no one will want to buy them{PAWN_pronoun}.</Ling_NoGod_NoValue.degreeDatas.0.description>
+  <Ling_NoGod_4.degreeDatas.0.label>Frigophobia </Ling_NoGod_4.degreeDatas.0.label>
+  <Ling_NoGod_4.degreeDatas.0.description>{PAWN_nameDef} Weak resistance to cold, easily frostbitten.</Ling_NoGod_4.degreeDatas.0.description>
+  <Ling_NoGod_5.degreeDatas.0.label>Thermophobia</Ling_NoGod_5.degreeDatas.0.label>
+  <Ling_NoGod_5.degreeDatas.0.description>{PAWN_nameDef} Weak resistance to hot environment, easily burned.</Ling_NoGod_5.degreeDatas.0.description>
+  <Ling_NoGod_Nonsense.degreeDatas.0.label>Bar fine</Ling_NoGod_Nonsense.degreeDatas.0.label>
+  <Ling_NoGod_Nonsense.degreeDatas.0.description>{PAWN_nameDef}Likes to get pleasure by raising arguments, always likes to ignore or misinterpret others' logic to anger others.</Ling_NoGod_Nonsense.degreeDatas.0.description>
+  <!-- <TraitDef>
+    <defName>Ling_NoGod_7</defName>
+    <commonality>0.1</commonality>
+    <degreeDatas>
+      <li>
+        <label>metabolism is slow</label>
+        <description>{PAWN_nameDef}The metabolic system is less healthy and the body recovers more slowly than normal, but the accumulated keratin layer on the surface of the body makes its defense power higher than normal..</description>
+        <statOffsets>
+          <ArmorRating_Blunt>0.4</ArmorRating_Blunt>
+          <ArmorRating_Sharp>0.6</ArmorRating_Sharp>
+          <ArmorRating_Heat>0.5</ArmorRating_Heat>
+        </statOffsets>
+        <naturalHealingFactor>0.6</naturalHealingFactor>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+
+  <TraitDef>
+    <defName>Ling_NoGod_8</defName>
+    <commonality>0.1</commonality>
+    <degreeDatas>
+      <li>
+        <label>Coagulation disorders</label>
+        <description>{PAWN_nameDef}There is some impairment in the coagulation function, which makes {PAWN_pronoun} bleed more when injured.</description>
+        <totalBleedFactor>2</totalBleedFactor>
+      </li>
+    </degreeDatas>
+  </TraitDef> -->
+  <Ling_NoGod_9.degreeDatas.0.label>Math Idiot</Ling_NoGod_9.degreeDatas.0.label>
+  <Ling_NoGod_9.degreeDatas.0.description>{PAWN_nameDef}There are some defects in the part of the brain that is used for computation, and there are always some mistakes when doing trading or computational work.</Ling_NoGod_9.degreeDatas.0.description>
+  <Ling_NoGod_10.degreeDatas.0.label>Physical deformities</Ling_NoGod_10.degreeDatas.0.label>
+  <Ling_NoGod_10.degreeDatas.0.description>{PAWN_nameDef}The body is like the scene of a serious car accident, and {PAWN_pronoun} is weaker than normal in all areas due to limb deformities.</Ling_NoGod_10.degreeDatas.0.description>
+  <!-- <TraitDef>
+    <defName>Ling_NoGod_11</defName>
+    <commonality>0.1</commonality>
+    <degreeDatas>
+      <li>
+        <label>Claustrophobic</label>
+        <description>{PAWN_nameDef}Have an inexplicable fear of the dark and closed, stay in the dark or closed space will make them extremely panic.</description>
+      </li>
+    </degreeDatas>
+  </TraitDef> -->
+  <Ling_NoGod_12.degreeDatas.0.label>arrogance</Ling_NoGod_12.degreeDatas.0.label>
+  <Ling_NoGod_12.degreeDatas.0.description>{PAWN_nameDef} Self-esteem, think they know everything and does not need to learn.</Ling_NoGod_12.degreeDatas.0.description>
+  <!-- <TraitDef>
+    <defName>Ling_NoGod_13</defName>
+    <commonality>0.1</commonality>
+    <degreeDatas>
+      <li>
+        <label>Pre-Madonna</label>
+        <description>{PAWN_nameDef}Demanding a lot from others and forbidding them to do anything to hurt others, but being very tolerant of oneself.</description>
+      </li>
+    </degreeDatas>
+  </TraitDef> -->
+  <Ling_NoGod_14.degreeDatas.0.label>lust for sex</Ling_NoGod_14.degreeDatas.0.label>
+  <Ling_NoGod_14.degreeDatas.0.description>{PAWN_nameDef}Very greedy for lust, if you do not have more than one lover, you will be very miserable.</Ling_NoGod_14.degreeDatas.0.description>
+</LanguageData>
