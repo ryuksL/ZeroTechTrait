@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- {PAWN_nameDef}
+	{PAWN_possessive}
+	{PAWN_pronoun} -->
+  <Ling_NoGod_Nonsense.stages.0.label>Evil words</Ling_NoGod_Nonsense.stages.0.label>
+  <Ling_NoGod_NonsenseMood.stages.0.label>Evil words</Ling_NoGod_NonsenseMood.stages.0.label>
+  <Ling_NoGod_NonsenseMood.stages.0.description>That guy said a lot of nasty things to me, what a horrible guy！</Ling_NoGod_NonsenseMood.stages.0.description>
+  <!-- <TraitDef>
+    <defName>Ling_NoGod_13</defName>
+    <commonality>0.1</commonality>
+    <degreeDatas>
+      <li>
+        <label>Virgin</label>
+        <description>{PAWN_nameDef}Demand others with extremely high requirements, do not allow others to do anything to hurt others, but are very tolerant of themselves.</description>
+      </li>
+    </degreeDatas>
+  </TraitDef> -->
+  <Ling_NoGod_14.stages.0.label>There are no objects</Ling_NoGod_14.stages.0.label>
+  <Ling_NoGod_14.stages.0.description>Oh my God, I can't believe no one is with someone as good as me</Ling_NoGod_14.stages.0.description>
+  <Ling_NoGod_14.stages.1.label>There is only one object</Ling_NoGod_14.stages.1.label>
+  <Ling_NoGod_14.stages.1.description>I'm so good that I only have one partner</Ling_NoGod_14.stages.1.description>
+  <Ling_NoGod_14.stages.2.label>There are two objects</Ling_NoGod_14.stages.2.label>
+  <Ling_NoGod_14.stages.2.description>Just barely...</Ling_NoGod_14.stages.2.description>
+  <Ling_NoGod_14.stages.3.label>There are multiple objects</Ling_NoGod_14.stages.3.label>
+  <Ling_NoGod_14.stages.3.description>This is the perfect life!</Ling_NoGod_14.stages.3.description>
+</LanguageData>
